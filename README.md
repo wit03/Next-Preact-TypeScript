@@ -24,9 +24,9 @@ yarn build
 yarn start
 ```
 
-## Few more included options
-- [TSLint](https://github.com/palantir/tslint) and [Prettier](https://prettier.io/) are included.
-- Images can be easily optimized by changing this:
+## This template also included
+- [TSLint](https://github.com/palantir/tslint) and [Prettier](https://prettier.io/)
+- Next.js Image Optimizations, Images can be easily optimized by changing this:
 ```js
 //...
 module.exports = withPlugins([
